@@ -1,0 +1,10 @@
+{
+  "name": "agent-replay",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "An interactive simulator for bounded agent tool workflows, failures, retries, and approval.",
+  "scripts": {"test": "node --test", "eval": "node evaluate.js"},
+  "engines": {"node": ">=20"},
+  "license": "MIT"
+}
